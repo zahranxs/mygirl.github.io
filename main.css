@@ -12,11 +12,6 @@ body {
     box-sizing: border-box;
 }
 
-audio {
-    padding: 100px;
-    position: center
-    ;
-}
 
 .container {
     display: grid;
